@@ -1,0 +1,10 @@
+﻿Color,Element,Wavelength,angle,sig_angle
+deep red,Cd,643.85,138.17,0.17
+bright yellow doublet (b),Hg,579.07,137.5,0.17
+bright yellow doublet (a),Hg,576.96,137.5,0.17
+bright green,Hg,546.08,137,0.17
+turquoise,Cd,508.58,136.33,0.17
+light blue,Cd,479.99,135.5,0.17
+dark blue,Cd,467.81,135.17,0.17
+bright voilet-blue,Hg,435.83,133.83,0.17
+dark violet,Hg,404.66,132,0.17
