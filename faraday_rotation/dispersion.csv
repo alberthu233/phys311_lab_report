@@ -1,10 +1,10 @@
-﻿Color,Element,Wavelength,angle,sig_angle
-deep red,Cd,643.85,2.412,0.003
-bright yellow doublet (b),Hg,579.07,2.400,0.003
-bright yellow doublet (a),Hg,576.96,2.400,0.003
-bright green,Hg,546.08,2.391,0.003
-turquoise,Cd,508.58,2.379,0.003
-light blue,Cd,479.99,2.365,0.003
-dark blue,Cd,467.81,2.359,0.003
-bright voilet-blue,Hg,435.83,2.336,0.003
-dark violet,Hg,404.66,2.304,0.003
+﻿Color,Element,Wavelength,angle,ang_rad,sig_angle,sig_angle_rad
+deep red,Cd,643.85,138.1666667,2.411463209,0.333333333,0.005817764
+bright yellow doublet (b),Hg,579.07,137.5,2.399827681,0.333333333,0.005817764
+bright yellow doublet (a),Hg,576.96,137.5,2.399827681,0.333333333,0.005817764
+bright green,Hg,546.08,137,2.391101034,0.333333333,0.005817764
+turquoise,Cd,508.58,136.3333333,2.379465506,0.333333333,0.005817764
+light blue,Cd,479.99,135.5,2.364921096,0.333333333,0.005817764
+dark blue,Cd,467.81,135.1666667,2.359103333,0.333333333,0.005817764
+bright voilet-blue,Hg,435.83,133.8333333,2.335832275,0.333333333,0.005817764
+dark violet,Hg,404.66,132,2.303834573,0.333333333,0.005817764
